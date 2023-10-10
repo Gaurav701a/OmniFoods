@@ -45,7 +45,7 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Gaurav701a/OmniFoods
    
 2. Open the project directory in your code editor.
 3. Open the index.html file in your web browser to view the website locally.
