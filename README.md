@@ -20,7 +20,7 @@ OmniFoods is a premium food delivery service website that offers healthy and del
 
 ## Demo
 
-You can view a live demo of the OmniFoods website [here](#).
+You can view a live demo of the OmniFoods website [here](https://omni-foods-no-junk.netlify.app/).
 
 ## Features
 
